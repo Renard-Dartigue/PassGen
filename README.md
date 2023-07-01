@@ -7,7 +7,7 @@ PassGen is a site used for creating secure passwords using numbers, letters, and
 
 ## Usage 
 
-
+https://renard-dartigue.github.io/PassGen/
 
 ## Credits 
 
@@ -25,3 +25,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Screenshot
 
+![alt text](./assets/images/renard-dartigue.github.io_PassGen_.png)
